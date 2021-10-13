@@ -1,0 +1,12 @@
+[package]
+name = "pcd_reader"
+license="MIT"
+description="Reading PointCloud Data from PCD Format"
+version = "0.1.0"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+byteorder="1.4.3"
+lzf="0.3.1"
