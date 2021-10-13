@@ -1,4 +1,4 @@
-# pcd_reader-rust: Reading PointCloud Data from PCD Format
+# pcd_reader-rust: Reading PointCloud Data from PCD Format in Rust
 
 Currently only supporting binary_compressed format.
 
